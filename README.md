@@ -1,10 +1,16 @@
-👋 Hi, I'm Smriti Prajapati!
-🚀 Tech enthusiast & developer
-🖥️ Building ParXon – a voice-assisted app for Parkinson’s patients
-🌐 Exploring web dev, AI, and automation
-💡 Passionate about problem-solving & open-source
-📚 Student | Tech Team @ Linux Club
-💬 Let's connect & build something awesome!
+**#👋 Hi, I'm Smriti Prajapati!**
+
+#🚀 Tech enthusiast & developer
+
+#🖥️ Building ParXon – a voice-assisted app for Parkinson’s patients
+
+#🌐 Exploring web dev, AI, and automation
+
+#💡 Passionate about problem-solving & open-source
+
+#📚 Student | Tech Team @ Linux Club
+
+#💬 Let's connect & build something awesome!
 <!--
 **Smriti-Prajapati/Smriti-Prajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
