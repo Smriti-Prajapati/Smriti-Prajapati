@@ -1,11 +1,11 @@
 # Hi, I'm Smriti! 👋
 
 ### 🚀 About Me  
-- 🌱 I’m currently learning **Full Stack Development** and **Open Source Contributions**.  
-- 💻 Passionate about **building impactful projects** and solving problems.  
-- 🎯 Goal for 2025: Contribute to **top open-source projects**.  
-- 📚 Currently exploring **Machine Learning** and **AI**.  
-- 💬 Ask me about **Java, Web Dev, Git, GitHub**.
+- 🌱 Currently growing my skills in **Full Stack Development** & **Open Source**  
+- 💻 Turning **ideas into real-world solutions** through code  
+- 🤖 Diving deeper into the world of **Machine Learning** & **AI**  
+- 💬 Let's talk about **Java, Web Dev, Git, GitHub**, and cool tech stuff!
+
 
 ---
 
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats (Graphical)  
+### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Smriti-Prajapati&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
