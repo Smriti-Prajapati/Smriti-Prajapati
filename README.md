@@ -4,7 +4,7 @@
 - 🌱 Currently growing my skills in **Full Stack Development** & **Open Source**  
 - 💻 Turning **ideas into real-world solutions** through code  
 - 🤖 Diving deeper into the world of **Machine Learning** & **AI**  
-- 💬 Let's talk about **Java, Web Dev, Git, GitHub**, and cool tech stuff!
+- 💬 Let's talk about **Java, Web Dev, C++, Python**, and cool tech stuff!
 
 ---
 
@@ -33,7 +33,7 @@
   </a>
   <!-- Kaggle -->
   <a href="https://www.kaggle.com/mssmritiprajapati" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/kaggle.png" alt="Kaggle"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48" height="48" alt="Kaggle" />
   </a>
   <!-- Email -->
   <a href="mailto:smritiprajapati15@gmail.com">
