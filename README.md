@@ -21,7 +21,7 @@
   </a>
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/VITBLionSmriti" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Codeforces_logo.png" alt="Codeforces" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/smritiprajapati1" target="_blank">
@@ -45,8 +45,9 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Apache_NetBeans_Logo.svg" alt="NetBeans" width="48" height="48"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-apache-tomcat-is-an-open-source-implementation-of-the-java-servlet-logo-shadow-tal-revivo.png" alt="Apache Tomcat"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" alt="NetBeans" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" width="48" height="48" alt="Tomcat" />
+
 </p>
 
 ---
