@@ -44,7 +44,7 @@
 
 ---
 
-### 🛠️ Languages and Tools  
+### 🛠️ Technology stack 
 <p>
   <!-- Programming Languages -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
