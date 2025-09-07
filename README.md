@@ -32,9 +32,10 @@
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/>
   </a>
   <!-- Kaggle -->
-  <a href="https://www.kaggle.com/mssmritiprajapati" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48" height="48" alt="Kaggle" />
-  </a>
+<a href="https://www.kaggle.com/mssmritiprajapati" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48" alt="Kaggle"/>
+</a>
+
   <!-- Email -->
   <a href="mailto:smritiprajapati15@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
@@ -82,4 +83,3 @@
 
 ---
 
-⭐ *"Always learning, always growing!"*
