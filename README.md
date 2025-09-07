@@ -6,6 +6,10 @@
 - 🤖 Diving deeper into the world of **Machine Learning** & **AI**  
 - 💬 Let's talk about **Java, Web Dev, Git, GitHub**, and cool tech stuff!
 
+---
+
+### 🏅 Hacktoberfest Badges  
+[![An image of @smritiprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smritiprajapati)](https://holopin.io/@smritiprajapati)
 
 ---
 
@@ -21,11 +25,15 @@
   </a>
   <!-- Codeforces -->
   <a href="https://codeforces.com/profile/VITBLionSmriti" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/smritiprajapati1" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/>
+  </a>
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/mssmritiprajapati" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/kaggle.png" alt="Kaggle"/>
   </a>
   <!-- Email -->
   <a href="mailto:smritiprajapati15@gmail.com">
@@ -47,7 +55,6 @@
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" alt="NetBeans" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" width="48" height="48" alt="Tomcat" />
-
 </p>
 
 ---
@@ -74,3 +81,5 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Smriti-Prajapati&theme=react-dark&hide_border=true&area=true)
 
 ---
+
+⭐ *"Always learning, always growing!"*
