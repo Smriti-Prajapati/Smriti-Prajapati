@@ -8,6 +8,11 @@
 
 ---
 
+### 🪄 Holopin Badges  
+[![An image of @smritiprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smritiprajapati)](https://holopin.io/@smritiprajapati)
+
+---
+
 ### 🌐 Connect with Me  
 <p align="left">
   <!-- LinkedIn -->
@@ -68,12 +73,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" alt="NetBeans"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" width="48" height="48" alt="Tomcat"/>
 </p>
-
----
-
-### 🪄 Holopin Badges  
-[![An image of @smritiprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smritiprajapati)](https://holopin.io/@smritiprajapati)
-
 ---
 
 ### 🏆 GitHub Trophies  
