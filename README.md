@@ -11,54 +11,65 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
-<a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-<img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
-</a>
-<a href="mailto:your-email@example.com">
-<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-</a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM/" target="_blank">
-<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/smriti-prajapati" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Smriti_Prajapati/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
+  </a>
+  <!-- Codeforces -->
+  <a href="https://codeforces.com/profile/VITBLionSmriti" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Codeforces_logo.png" alt="Codeforces" width="48" height="48"/>
+  </a>
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/smritiprajapati1" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/>
+  </a>
+  <!-- Email -->
+  <a href="mailto:smritiprajapati15@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/>
+  </a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools  
 <p>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/github.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Apache_NetBeans_Logo.svg" alt="NetBeans" width="48" height="48"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-apache-tomcat-is-an-open-source-implementation-of-the-java-servlet-logo-shadow-tal-revivo.png" alt="Apache Tomcat"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats (Graphical)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Smriti-Prajapati&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti-Prajapati&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🔥 Streak Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Smriti-Prajapati&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 💹 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Smriti-Prajapati&theme=react-dark&hide_border=true&area=true)
 
 ---
-
-⭐ *"Always learning, always growing!"*
-
-[![An image of @smritiprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smritiprajapati)](https://holopin.io/@smritiprajapati)
