@@ -1,7 +1,8 @@
 # Hi, I'm Smriti! 👋
 
 ### 🚀 About Me  
-- 🌱 Currently growing my skills in **Full Stack Development** & **Open Source**  
+- 🎓 Currently purssuing **Computer Science** at **VIT Bhopal University, India**
+- 🌱 Growing my skills in **Full Stack Development** & **Open Source**  
 - 💻 Turning **ideas into real-world solutions** through code  
 - 🤖 Exploring the world of **Machine Learning** & **AI**  
 - 💬 Let's talk about **Java, Web Dev, Git, GitHub**, and cool tech stuff!  
