@@ -30,22 +30,22 @@
 ---
 
 ### 🛠️ Languages and Tools  
-<p align="center">
-  ☕ <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> 
-  🐍 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> 
-  💻 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> 
-  📱 <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/> 
-  🌐 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/> 
-  🎨 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> 
-  ⚡ <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> 
-  🗄️ <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> 
-  🔥 <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/> 
-  ☁️ <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/> 
-  🤖 <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/> 
-  🔧 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> 
-  🐙 <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/> 
-  📝 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" alt="NetBeans"/> 
-  🐱‍💻 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" width="48" height="48" alt="Tomcat"/>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" alt="NetBeans"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" width="48" height="48" alt="Tomcat"/>
 </p>
 
 ---
