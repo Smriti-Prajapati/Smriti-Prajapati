@@ -2,11 +2,6 @@ name: Generate GitHub Snake
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"  # runs daily at midnight
-  push:
-    branches:
-      - main
 
 jobs:
   build:
@@ -16,14 +11,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # important to push to another branch
+          fetch-depth: 0
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Smriti-Prajapati
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: output/github-contribution-grid-snake.svg
+          outputs: github-contribution-grid-snake.svg
 
       - name: Commit & Push Snake
         uses: EndBug/add-and-commit@v9
@@ -31,5 +26,4 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "Update GitHub Snake"
-          add: "output/github-contribution-grid-snake.svg"
-          branch: output
+          add: "github-contribution-grid-snake.svg"
