@@ -81,5 +81,5 @@
 ---
 
 ### 🐍 Contribution Snake  
-![Snake animation](https://github.com/Smriti-Prajapati/Smriti-Prajapati/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Smriti-Prajapati/Smriti-Prajapati/output/github-contribution-grid-snake.svg)
 
