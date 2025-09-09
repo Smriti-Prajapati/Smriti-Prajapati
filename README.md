@@ -79,4 +79,4 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Smriti-Prajapati&theme=react-dark&hide_border=true&area=true)
 
 ---
-![GitHub Snake](https://raw.githubusercontent.com/Smriti-Prajapati/Smriti-Prajapati/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Smriti-Prajapati/Smriti-Prajapati/main/github-contribution-grid-snake.svg)
