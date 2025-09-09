@@ -14,7 +14,7 @@
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Connect with Me: 
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/smriti-prajapati" target="_blank">
@@ -44,7 +44,7 @@
 
 ---
 
-### 🛠️ Technology stack 
+### 🛠️ Languages and Tools: 
 <p>
   <!-- Programming Languages -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
