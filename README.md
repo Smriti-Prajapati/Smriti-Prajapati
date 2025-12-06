@@ -49,23 +49,28 @@
 </p>
 
 ---
-### 🏆 GitHub Trophies <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Smriti-Prajapati&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> </p> 
+
+### 🏆 GitHub Trophies  
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Smriti-Prajapati&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> 
+</p>
+
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smriti-Prajapati&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Smriti-Prajapati&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti-Prajapati&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Smriti-Prajapati&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🔥 Streak Stats  
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=Smriti-Prajapati&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Smriti-Prajapati&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -74,4 +79,5 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Smriti-Prajapati&theme=react-dark&hide_border=true&area=true)
 
 ---
+
 ![GitHub Snake](https://raw.githubusercontent.com/Smriti-Prajapati/Smriti-Prajapati/main/github-contribution-grid-snake.svg)
