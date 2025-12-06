@@ -59,11 +59,11 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Smriti-Prajapati&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://git-stats-alpha.vercel.app/api?username=Smriti-Prajapati&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Smriti-Prajapati&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://git-stats-alpha.vercel.app/api/top-langs/?username=Smriti-Prajapati&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
