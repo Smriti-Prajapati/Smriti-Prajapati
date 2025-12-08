@@ -58,6 +58,13 @@
 
 ---
 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+
 ### 🔥 Streak Stats  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Smriti-Prajapati&theme=radical&hide_border=true" alt="GitHub Streak"/>
@@ -67,11 +74,6 @@
 
 ### 💹 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Smriti-Prajapati&theme=react-dark&hide_border=true&area=true)
-
----
-
-![Contributions](https://github.com/Smriti-Prajapati/Smriti-Prajapati/blob/main/contributions.svg)
-
 
 
 ---
