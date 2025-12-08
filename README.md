@@ -65,12 +65,6 @@
   <img src="https://streak-stats.demolab.com?user=Smriti-Prajapati&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
-
-### 🌐 Contribution Calendar  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Smriti-Prajapati/Smriti-Prajapati/main/github-3d-contrib/calendar.svg" width="600">
-</p>
 
 ---
 ### 💹 Contribution Graph  
