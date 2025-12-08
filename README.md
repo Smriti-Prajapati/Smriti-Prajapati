@@ -71,3 +71,13 @@
 ---
 
 ![GitHub Snake](https://raw.githubusercontent.com/Smriti-Prajapati/Smriti-Prajapati/main/github-contribution-grid-snake.svg)
+
+
+---
+
+### 👀 Profile Visitors  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Smriti-Prajapati&label=Profile%20Views&color=FF61F6&style=flat" alt="Profile views"/>
+</p>
+
