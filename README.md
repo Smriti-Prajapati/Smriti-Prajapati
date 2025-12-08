@@ -52,20 +52,20 @@
 
 ### 🏆 GitHub Trophies  
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Smriti-Prajapati&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=smriti-prajapati&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> 
 </p>
 
 ---
 
 ### 🔥 Streak Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smriti-Prajapati&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=smriti-prajapati&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 💹 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Smriti-Prajapati&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smriti-prajapati&theme=react-dark&hide_border=true&area=true)
 
 ---
 
@@ -76,5 +76,5 @@
 ### 👀 Profile Visitors  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Smriti-Prajapati&label=Profile%20Views&color=FF61F6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=smriti-prajapati&label=Profile%20Views&color=FF61F6&style=flat" alt="Profile views"/>
 </p>
