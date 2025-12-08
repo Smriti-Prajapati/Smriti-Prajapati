@@ -70,8 +70,8 @@
 
 ---
 
-### 🌆 GitHub Skyline  
-[Click to view your 3D GitHub Skyline](https://skyline.github.com/Smriti-Prajapati/)
+![Contributions](https://github.com/Smriti-Prajapati/Smriti-Prajapati/blob/main/contributions.svg)
+
 
 
 ---
