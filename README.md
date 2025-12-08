@@ -19,53 +19,55 @@
 
 ### 🌐 Connect with Me: 
 <p align="left">
-  <a href="https://www.linkedin.com/in/smriti-prajapati" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/Smriti_Prajapati/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://www.linkedin.com/in/smriti-prajapati" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://leetcode.com/u/Smriti_Prajapati/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/></a>
   <a href="https://codeforces.com/profile/VITBLionSmriti" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/smritiprajapati1" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/></a>
-  <a href="https://www.kaggle.com/mssmritiprajapati" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48" alt="Kaggle"/></a>
-  <a href="mailto:smritiprajapati15@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a>
+  <a href="https://www.hackerrank.com/profile/smritiprajapati1" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>
+  <a href="https://www.kaggle.com/mssmritiprajapati" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48"/></a>
+  <a href="mailto:smritiprajapati15@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 </p>
 
 ---
 
 ### 🛠 Languages and Tools  
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" alt="NetBeans"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" width="48" height="48" alt="Tomcat"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" width="48"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=smriti-prajapati&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> 
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=smriti-prajapati&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 🔥 Streak Stats  
+### 🔥 Streak Stats (Mirror – Always Works)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=smriti-prajapati&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats-github.herokuapp.com/?user=smriti-prajapati&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 💹 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smriti-prajapati&theme=react-dark&hide_border=true&area=true)
+### 💹 Contribution Graph (Stable Mirror)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=smriti-prajapati&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
@@ -74,7 +76,6 @@
 ---
 
 ### 👀 Profile Visitors  
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smriti-prajapati&label=Profile%20Views&color=FF61F6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=smriti-prajapati&label=Profile%20Views&color=FF61F6&style=flat"/>
 </p>
