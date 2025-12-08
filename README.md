@@ -67,6 +67,12 @@
 
 ---
 
+### 🌐 Contribution Calendar  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Smriti-Prajapati/Smriti-Prajapati/main/github-3d-contrib/calendar.svg" width="600">
+</p>
+
+---
 ### 💹 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Smriti-Prajapati&theme=react-dark&hide_border=true&area=true)
 
@@ -78,8 +84,3 @@
 
 ---
 
-### 👀 Profile Visitors  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Smriti-Prajapati&label=Profile%20Views&color=FF61F6&style=flat" alt="Profile views"/>
-</p>
