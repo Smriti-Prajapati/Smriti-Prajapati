@@ -51,13 +51,16 @@
 ---
 
 ### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy-git-master.ryo-ma1.vercel.app/?username=smriti-prajapati&theme=radical&no-frame=true" />
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Smriti-Prajapati&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> 
 </p>
+
+
+---
 
 ### 🔥 Streak Stats  
 <p align="center">
-  <img src="https://streak-stats-git-main-readme-streak-stats.vercel.app/?user=smriti-prajapati&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Smriti-Prajapati&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -77,4 +80,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Smriti-Prajapati&label=Profile%20Views&color=FF61F6&style=flat" alt="Profile views"/>
 </p>
-  
