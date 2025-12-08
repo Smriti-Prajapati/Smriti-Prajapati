@@ -70,6 +70,12 @@
 
 ---
 
+### 🌆 GitHub Skyline  
+[Click to view your 3D GitHub Skyline](https://skyline.github.com/Smriti-Prajapati/)
+
+
+---
+
 ![GitHub Snake](https://raw.githubusercontent.com/Smriti-Prajapati/Smriti-Prajapati/main/github-contribution-grid-snake.svg)
 
 
