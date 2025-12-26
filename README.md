@@ -70,6 +70,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti-Prajapati&layout=compact&theme=dark" />
 </p>
 
+### 🔥 GitHub Streak
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Smriti-Prajapati&theme=dark&hide_border=true" 
+  />
+</p>
+
+
 
 
 
