@@ -61,10 +61,15 @@
 
 
 
-### 🔥 Streak Stats  
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Smriti-Prajapati&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Smriti-Prajapati&show_icons=true&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti-Prajapati&layout=compact&theme=dark" />
+</p>
+
 
 
 
