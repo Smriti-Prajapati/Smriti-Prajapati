@@ -1,137 +1,94 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,50:6a11cb,75:c084fc,100:ffb6c1&height=320&section=header&text=SMRITI%20PRAJAPATI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source%20Contributor&descAlignY=58&descAlign=50" />
-</p>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Smriti+Prajapati+👋;Full+Stack+Developer+💻;Machine+Learning+%26+AI+Enthusiast+🤖;Open+Source+Contributor+🌍;Building+Ideas+Into+Reality+✨" />
-
-</div>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FF61F6&center=true&vCenter=true&width=600&lines=Hi+I+am+Smriti+👋;Full+Stack+Developer+💻;Open+Source+Contributor+🌍;AI+%26+ML+Enthusiast+🤖;Always+learning+new+things+✨)](https://git.io/typing-svg)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Smriti-Prajapati&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge"/>
-  
-  <img src="https://img.shields.io/github/followers/Smriti-Prajapati?label=FOLLOWERS&style=for-the-badge&color=c084fc"/>
-  
-  <img src="https://img.shields.io/github/stars/Smriti-Prajapati?affiliations=OWNER&style=for-the-badge&color=ff69b4"/>
-</p>
+### 🚀 About Me  
+- 🎓 Currently pursuing *Computer Science* at *VIT Bhopal University, India*
+- 🌱 Growing my skills in *Full Stack Development* & *Open Source*  
+- 💻 Turning *ideas into real-world solutions* through code  
+- 🤖 Exploring the world of *Machine Learning* & *AI*  
+- 💬 Let's talk about *Java, Web Dev, Git, GitHub*, and cool tech stuff!  
 
 ---
 
-<h2 align="center">💫 About Me</h2>
-
-<div align="center">
-
-🎓 Computer Science Student at <b>VIT Bhopal University, India</b>  
-💻 Passionate about <b>Full Stack Development & Open Source</b>  
-🤖 Exploring the world of <b>Artificial Intelligence & Machine Learning</b>  
-🚀 Building impactful real-world projects through code  
-🌱 Constantly learning, growing, and creating  
-
-</div>
+### 🪄 Holopin Badges  
+[![An image of @smritiprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smritiprajapati)](https://holopin.io/@smritiprajapati)
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/smriti-prajapati" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:smritiprajapati15@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ec4899?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Smriti_Prajapati/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-c084fc?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/VITBLionSmriti" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-a855f7?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/smritiprajapati1" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-d8b4fe?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.kaggle.com/mssmritiprajapati" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-f5d0fe?style=for-the-badge&logo=kaggle&logoColor=black"/>
-</a>
-
+### 🌐 Connect with Me: 
+<p align="left">
+  <a href="https://www.linkedin.com/in/smriti-prajapati" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Smriti_Prajapati/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/VITBLionSmriti" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/smritiprajapati1" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/></a>
+  <a href="https://www.kaggle.com/mssmritiprajapati" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48" alt="Kaggle"/></a>
+  <a href="mailto:smritiprajapati15@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a>
 </p>
 
 ---
 
-<h2 align="center">🪄 Holopin Badges</h2>
-
-<p align="center">
-  <a href="https://holopin.io/@smritiprajapati">
-    <img src="https://holopin.me/smritiprajapati" alt="Holopin Badges"/>
-  </a>
+### 🛠 Languages and Tools  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" alt="NetBeans"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" width="48" height="48" alt="Tomcat"/>
 </p>
 
 ---
 
-<h2 align="center">🛠 Languages & Tools</h2>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,kotlin,html,css,js,mysql,firebase,aws,tensorflow,git,github"/>
-
+### 🏆 GitHub Trophies  
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Smriti-Prajapati&theme=onedark&no-frame=true&row=1&column=6" /> 
 </p>
 
-<p align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="55"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" width="55"/>
-
-</p>
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smriti-Prajapati&show_icons=true&theme=dark" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Smriti-Prajapati&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti-Prajapati&layout=compact&theme=dark" />
 </p>
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Smriti-Prajapati&theme=dark&hide_border=true" 
+  />
+</p>
+
+
+
+
+
+---
+### 💹 Contribution Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Smriti-Prajapati&theme=react-dark&hide_border=true&area=true)
+
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+![GitHub Snake](https://raw.githubusercontent.com/Smriti-Prajapati/Smriti-Prajapati/main/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Smriti-Prajapati&show_icons=true&theme=radical&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti-Prajapati&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smriti-Prajapati&theme=radical&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">💹 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smriti-Prajapati&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
-<h2 align="center">🐍 GitHub Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Smriti-Prajapati/Smriti-Prajapati/main/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
