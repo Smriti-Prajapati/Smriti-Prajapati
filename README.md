@@ -1,27 +1,25 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=900&lines=Hey+I'm+Smriti+Prajapati+👋;Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌍" />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=1000&height=100&lines=Hey+I'm+Smriti+Prajapati+👋;Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌍" />
+  <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-ff61f6?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/AI%20ENTHUSIAST-c77dff?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-e0aaff?style=for-the-badge&logo=opensourceinitiative&logoColor=black"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-ff61f6?style=for-the-badge&logo=github&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-c77dff?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Open%20Source-e0aaff?style=for-the-badge&logo=opensourceinitiative&logoColor=black"/>
+  <img src="https://komarev.com/ghpvc/?username=Smriti-Prajapati&label=PROFILE+VIEWS&color=ff61f6&style=for-the-badge"/>
+
+  <img src="https://img.shields.io/github/followers/Smriti-Prajapati?label=FOLLOWERS&style=for-the-badge&color=c77dff"/>
+
+  <img src="https://img.shields.io/github/stars/Smriti-Prajapati?affiliations=OWNER&label=STARS&style=for-the-badge&color=e0aaff"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Smriti-Prajapati&label=PROFILE+VIEWS&color=ff61f6&style=flat-square"/>
-  
-  <img src="https://img.shields.io/github/followers/Smriti-Prajapati?label=Followers&style=flat-square&color=c77dff"/>
-  
-  <img src="https://img.shields.io/github/stars/Smriti-Prajapati?affiliations=OWNER&style=flat-square&color=e0aaff"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Smriti-Prajapati&bg_color=00000000&color=ff61f6&line=c77dff&point=ffffff&hide_border=true&area=true" width="95%"/>
-</p>
 ---
+
 
 ### 🚀 About Me  
 - 🎓 Currently pursuing *Computer Science* at *VIT Bhopal University, India*
