@@ -1,31 +1,70 @@
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FF61F6&center=true&vCenter=true&width=600&lines=Hi+I+am+Smriti+👋;Full+Stack+Developer+💻;Open+Source+Contributor+🌍;AI+%26+ML+Enthusiast+🤖;Always+learning+new+things+✨)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,25:e6b3ff,50:d8b4fe,75:c084fc,100:7e22ce&height=260&section=header&text=SMRITI%20PRAJAPATI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Contributor&descAlignY=60&descAlign=50" />
+</p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=F5B7FF&center=true&vCenter=true&width=850&lines=Hey+There!+I'm+Smriti+Prajapati+👋;Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌍;Building+Ideas+Into+Reality+✨" />
+
+</div>
 
 ---
 
-### 🚀 About Me  
-- 🎓 Currently pursuing *Computer Science* at *VIT Bhopal University, India*
-- 🌱 Growing my skills in *Full Stack Development* & *Open Source*  
-- 💻 Turning *ideas into real-world solutions* through code  
-- 🤖 Exploring the world of *Machine Learning* & *AI*  
-- 💬 Let's talk about *Java, Web Dev, Git, GitHub*, and cool tech stuff!  
+<div align="center">
+
+### 💫 About Me
+
+🎓 Computer Science Student at **VIT Bhopal University, India**  
+💻 Passionate about **Full Stack Development & Open Source**  
+🤖 Exploring the world of **Artificial Intelligence & Machine Learning**  
+🚀 Building impactful real-world projects through code  
+🌱 Constantly learning, growing, and creating  
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/smriti-prajapati" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-b57edc?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:smritiprajapati15@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Smriti_Prajapati/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-c084fc?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/VITBLionSmriti" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-d8b4fe?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/smritiprajapati1" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-e9d5ff?style=for-the-badge&logo=hackerrank&logoColor=black" />
+</a>
+
+<a href="https://www.kaggle.com/mssmritiprajapati" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-f5d0fe?style=for-the-badge&logo=kaggle&logoColor=black" />
+</a>
+
+</div>
+
+
+
+
+
+
 
 ---
 
 ### 🪄 Holopin Badges  
 [![An image of @smritiprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smritiprajapati)](https://holopin.io/@smritiprajapati)
 
----
-
-### 🌐 Connect with Me: 
-<p align="left">
-  <a href="https://www.linkedin.com/in/smriti-prajapati" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/Smriti_Prajapati/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-  <a href="https://codeforces.com/profile/VITBLionSmriti" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/smritiprajapati1" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/></a>
-  <a href="https://www.kaggle.com/mssmritiprajapati" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48" alt="Kaggle"/></a>
-  <a href="mailto:smritiprajapati15@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a>
-</p>
 
 ---
 
