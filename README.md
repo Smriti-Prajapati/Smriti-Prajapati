@@ -1,19 +1,22 @@
 <p align="center">
-  <img width="100%" src="https://i.imgur.com/7yZ4FQp.png"/>
-</p>
-
-<h1 align="center">Hey, I'm Smriti Prajapati 👋</h1>
-
-<p align="center">
-Full Stack Developer • AI Enthusiast • Open Source Contributor
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ffb6c1,25:e0aaff,50:c77dff,75:9d4edd,100:5a189a&text=SMRITI%20PRAJAPATI&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source%20Contributor&descAlignY=58&descSize=20"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=850&lines=Open+to+Collaboration+on+Impactful+Projects;Building+Real+World+Projects+with+Code;Machine+Learning+%26+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=E0AAFF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Smriti+Prajapati+👋;Building+Beautiful+and+Scalable+Applications+💻;Machine+Learning+%26+AI+Enthusiast+🤖;Open+Source+Contributor+🌍;Always+Learning+New+Things+✨"/>
 </p>
 
-```
+---
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Smriti-Prajapati?style=for-the-badge&color=c77dff&labelColor=1a1b27"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Smriti-Prajapati&style=for-the-badge&color=e0aaff"/>
+  
+  <img src="https://img.shields.io/github/stars/Smriti-Prajapati?style=for-the-badge&color=ffb6c1&labelColor=1a1b27"/>
+</p>
+
+---
 
 # 🚀 About Me
 
