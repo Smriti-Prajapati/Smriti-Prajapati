@@ -1,32 +1,14 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ffb6c1,25:e0aaff,50:c77dff,75:9d4edd,100:5a189a&text=SMRITI%20PRAJAPATI&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source%20Contributor&descAlignY=58&descSize=20"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=E0AAFF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Smriti+Prajapati+👋;Building+Beautiful+and+Scalable+Applications+💻;Machine+Learning+%26+AI+Enthusiast+🤖;Open+Source+Contributor+🌍;Always+Learning+New+Things+✨"/>
-</p>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FF61F6&center=true&vCenter=true&width=600&lines=Hi+I+am+Smriti+👋;Full+Stack+Developer+💻;Open+Source+Contributor+🌍;AI+%26+ML+Enthusiast+🤖;Always+learning+new+things+✨)](https://git.io/typing-svg)
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Smriti-Prajapati?style=for-the-badge&color=c77dff&labelColor=1a1b27"/>
-  
-  <img src="https://komarev.com/ghpvc/?username=Smriti-Prajapati&style=for-the-badge&color=e0aaff"/>
-  
-  <img src="https://img.shields.io/github/stars/Smriti-Prajapati?style=for-the-badge&color=ffb6c1&labelColor=1a1b27"/>
-</p>
-
----
-
-# 🚀 About Me
-
-- 🎓 Computer Science Student at **VIT Bhopal University**
-- 💻 Passionate about **Full Stack Development**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🌱 Learning System Design & Open Source
-- 🚀 Building impactful real-world projects
-
-
+### 🚀 About Me  
+- 🎓 Currently pursuing *Computer Science* at *VIT Bhopal University, India*
+- 🌱 Growing my skills in *Full Stack Development* & *Open Source*  
+- 💻 Turning *ideas into real-world solutions* through code  
+- 🤖 Exploring the world of *Machine Learning* & *AI*  
+- 💬 Let's talk about *Java, Web Dev, Git, GitHub*, and cool tech stuff!  
 
 ---
 
