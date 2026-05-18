@@ -1,11 +1,16 @@
+
 <p align="center">
-<img src="https://ghchart.rshah.org/39ff14/Smriti-Prajapati" width="100%" />
-type=rect&color=0:050816,25:071c12,50:0f3d1f,75:14532d,100:000000&height=280&section=header&text=SMRITI%20PRAJAPATI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source%20Contributor&descAlignY=55&descAlign=50" />
+  <img src="https://ghchart.rshah.org/39ff14/Smriti-Prajapati" width="100%" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=39FF14&width=1000&lines=Hey+I'm+Smriti+Prajapati+👋;Open+to+Collaboration+on+Impactful+Projects;Building+Real+World+Projects+with+Code;Machine+Learning+%26+AI+Enthusiast" />
+<h1 align="center">SMRITI PRAJAPATI</h1>
 
----
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • Open Source Contributor
+</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=39FF14&width=1000&lines=Open+to+Collaboration+on+Impactful+Projects;Building+Real+World+Projects+with+Code;Machine+Learning+%26+AI+Enthusiast;Always+Learning+New+Things" />
+```
 
 
 # 🚀 About Me
