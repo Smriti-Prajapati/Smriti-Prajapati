@@ -1,15 +1,17 @@
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/39ff14/Smriti-Prajapati" width="100%" />
+  <img width="100%" src="https://i.imgur.com/7yZ4FQp.png"/>
 </p>
 
-<h1 align="center">SMRITI PRAJAPATI</h1>
+<h1 align="center">Hey, I'm Smriti Prajapati 👋</h1>
 
-<h3 align="center">
+<p align="center">
 Full Stack Developer • AI Enthusiast • Open Source Contributor
-</h3>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=39FF14&width=1000&lines=Open+to+Collaboration+on+Impactful+Projects;Building+Real+World+Projects+with+Code;Machine+Learning+%26+AI+Enthusiast;Always+Learning+New+Things" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=850&lines=Open+to+Collaboration+on+Impactful+Projects;Building+Real+World+Projects+with+Code;Machine+Learning+%26+AI+Enthusiast" />
+</p>
+
 ```
 
 
