@@ -1,38 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=48&duration=3500&pause=1000&color=F8F8F8&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Smriti+Prajapati+👋" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1200&color=B388FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Machine+Learning+%26+AI+Enthusiast;Open+Source+Contributor;Building+real-world+projects+through+code+✨" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/smriti-prajapati">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:smritiprajapati15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/u/Smriti_Prajapati/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
-  </a>
-
-  <a href="https://codeforces.com/profile/VITBLionSmriti">
-    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=flat-square&logo=codeforces&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Smriti-Prajapati&style=flat-square&color=blueviolet"/>
-</p>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FF61F6&center=true&vCenter=true&width=600&lines=Hi+I+am+Smriti+👋;Full+Stack+Developer+💻;Open+Source+Contributor+🌍;AI+%26+ML+Enthusiast+🤖;Always+learning+new+things+✨)](https://git.io/typing-svg)
 
 ---
-
-
----
-
 
 ### 🚀 About Me  
 - 🎓 Currently pursuing *Computer Science* at *VIT Bhopal University, India*
