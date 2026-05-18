@@ -1,22 +1,35 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=900&lines=Hey+I'm+Smriti+Prajapati+👋;Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Open+Source+Contributor+🌍" />
-</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-ff61f6?style=for-the-badge&logo=github&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/AI%20ENTHUSIAST-c77dff?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-e0aaff?style=for-the-badge&logo=opensourceinitiative&logoColor=black"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=48&duration=3500&pause=1000&color=F8F8F8&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+Smriti+Prajapati+👋" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Smriti-Prajapati&label=PROFILE+VIEWS&color=ff61f6&style=for-the-badge"/>
-
-  <img src="https://img.shields.io/github/followers/Smriti-Prajapati?label=FOLLOWERS&style=for-the-badge&color=c77dff"/>
-
-  <img src="https://img.shields.io/github/stars/Smriti-Prajapati?affiliations=OWNER&label=STARS&style=for-the-badge&color=e0aaff"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1200&color=B388FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Machine+Learning+%26+AI+Enthusiast;Open+Source+Contributor;Building+real-world+projects+through+code+✨" />
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/smriti-prajapati">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:smritiprajapati15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Smriti_Prajapati/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/VITBLionSmriti">
+    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=flat-square&logo=codeforces&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Smriti-Prajapati&style=flat-square&color=blueviolet"/>
+</p>
+
+---
+
 
 ---
 
