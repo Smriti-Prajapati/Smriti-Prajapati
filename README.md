@@ -1,14 +1,26 @@
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FF61F6&center=true&vCenter=true&width=600&lines=Hi+I+am+Smriti+👋;Full+Stack+Developer+💻;Open+Source+Contributor+🌍;AI+%26+ML+Enthusiast+🤖;Always+learning+new+things+✨)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,25:071c12,50:0f3d1f,75:14532d,100:000000&height=280&section=header&text=SMRITI%20PRAJAPATI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Open%20Source%20Contributor&descAlignY=55&descAlign=50" />
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=39FF14&width=1000&lines=Hey+I'm+Smriti+Prajapati+👋;Open+to+Collaboration+on+Impactful+Projects;Building+Real+World+Projects+with+Code;Machine+Learning+%26+AI+Enthusiast" />
 
 ---
 
-### 🚀 About Me  
-- 🎓 Currently pursuing *Computer Science* at *VIT Bhopal University, India*
-- 🌱 Growing my skills in *Full Stack Development* & *Open Source*  
-- 💻 Turning *ideas into real-world solutions* through code  
-- 🤖 Exploring the world of *Machine Learning* & *AI*  
-- 💬 Let's talk about *Java, Web Dev, Git, GitHub*, and cool tech stuff!  
+![Profile Views](https://komarev.com/ghpvc/?username=Smriti-Prajapati&label=PROFILE+VIEWS&color=39ff14&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Smriti-Prajapati?style=for-the-badge&color=0f0f0f&labelColor=39ff14)
+![Stars](https://img.shields.io/github/stars/Smriti-Prajapati?affiliations=OWNER&style=for-the-badge&color=0f0f0f&labelColor=39ff14)
+
+---
+
+# 🚀 About Me
+
+- 🎓 Computer Science Student at **VIT Bhopal University**
+- 💻 Passionate about **Full Stack Development**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🌱 Learning System Design & Open Source
+- 🚀 Building impactful real-world projects
+
+
 
 ---
 
