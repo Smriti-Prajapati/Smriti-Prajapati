@@ -33,9 +33,7 @@
 <table>
 <tr>
 <td width="90">
-
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Vellore_Institute_of_Technology_seal_2017.svg/1200px-Vellore_Institute_of_Technology_seal_2017.svg.png" width="70">
-
+<img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Vellore_Institute_of_Technology_%28logo%29.png" width="70"/>
 </td>
 
 <td>
@@ -46,10 +44,9 @@
 
 <br><br>
 
-🗓️ 2023 – 2027 &nbsp;&nbsp;&nbsp; 📍 Bhopal, Madhya Pradesh, India
+🗓️ 2023 – 2027 • 📍 Bhopal, Madhya Pradesh, India
 
 </td>
-
 </tr>
 </table>
 
