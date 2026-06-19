@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Smriti Prajapati 👋
+# Hi, I'm Smriti Prajapati 
 
 ### Software Engineer • Full Stack Developer • Open Source Contributor • AI & ML Enthusiast
 
@@ -25,14 +25,6 @@
 | Position | Organization | Duration |
 |------------|-------------|-----------|
 | Software Engineering Intern | Bharat Heavy Electricals Limited (BHEL), Bhopal | May 2025 – Jun 2025 |
-
-### MeetBook – Meeting Room Reservation & Management System
-
-**Tech Stack:** Java • JSP • MySQL • Apache Tomcat
-
-- Developed modules for meeting room reservation and management.
-- Implemented backend logic and database integration.
-- Improved scheduling workflows and reservation efficiency.
 
 ---
 
@@ -73,6 +65,9 @@ Bachelor of Technology in Computer Science and Engineering
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 📱 Mobile Development
@@ -112,6 +107,7 @@ Bachelor of Technology in Computer Science and Engineering
 - Google IT Support Professional Certificate
 - Meta Full Stack Professional Certificate
 - AWS Technical Essentials
+- Foundations of Git & GitKraken
 
 ---
 
