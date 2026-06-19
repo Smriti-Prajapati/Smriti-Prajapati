@@ -28,19 +28,30 @@
 
 ---
 
-## 🎓 Education
+<h2>🎓 Education</h2>
 
-<img align="left" width="80" src="https://upload.wikimedia.org/wikipedia/en/8/87/VIT_Bhopal_University_logo.png">
+<table>
+<tr>
+<td width="90">
 
-### Vellore Institute of Technology, Bhopal
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Vellore_Institute_of_Technology_seal_2017.svg/1200px-Vellore_Institute_of_Technology_seal_2017.svg.png" width="70">
 
-**Bachelor of Technology in Computer Science and Engineering**
+</td>
 
-🗓️ 2023 – 2027
+<td>
 
-📍 Bhopal, Madhya Pradesh, India
+<h3>Vellore Institute of Technology, Bhopal</h3>
 
-<br clear="left"/>
+<b>Bachelor of Technology in Computer Science and Engineering</b>
+
+<br><br>
+
+🗓️ 2023 – 2027 &nbsp;&nbsp;&nbsp; 📍 Bhopal, Madhya Pradesh, India
+
+</td>
+
+</tr>
+</table>
 
 ---
 
