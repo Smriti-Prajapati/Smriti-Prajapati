@@ -1,164 +1,94 @@
-# <div align="center">Hi, I'm Smriti Prajapati 👋</div>
-
-<div align="center">
-
-### Software Engineer • Full Stack Developer • Open Source Contributor • AI & Machine Learning Enthusiast
-
-*Building scalable applications, exploring AI, and contributing to the developer community.*
-
-</div>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FF61F6&center=true&vCenter=true&width=600&lines=Hi+I+am+Smriti+👋;Full+Stack+Developer+💻;Open+Source+Contributor+🌍;AI+%26+ML+Enthusiast+🤖;Always+learning+new+things+✨)](https://git.io/typing-svg)
 
 ---
 
-## About Me
-
-* 🎓 B.Tech in Computer Science and Engineering, VIT Bhopal University
-* 💻 Passionate about Software Engineering, Backend Development, and System Design
-* 🌱 Continuously learning and building impactful solutions
-* 🤖 Exploring Artificial Intelligence and Machine Learning
-* ☁️ Interested in Cloud Computing and Scalable Systems
-* 🚀 Always eager to solve real-world problems through technology
+### 🚀 About Me  
+- 🎓 Currently pursuing *Computer Science* at *VIT Bhopal University, India*
+- 🌱 Growing my skills in *Full Stack Development* & *Open Source*  
+- 💻 Turning *ideas into real-world solutions* through code  
+- 🤖 Exploring the world of *Machine Learning* & *AI*  
+- 💬 Let's talk about *Java, Web Dev, Git, GitHub*, and cool tech stuff!  
 
 ---
 
-## Experience
-
-### Software Engineering Intern | Bharat Heavy Electricals Limited (BHEL), Bhopal
-
-**May 2025 – June 2025**
-
-#### MeetBook — Meeting Room Reservation & Management System
-
-**Tech Stack:** Java, JSP, MySQL, Apache Tomcat
-
-* Developed modules for meeting room reservation and management.
-* Implemented backend logic and database integration.
-* Improved scheduling workflows and user experience.
-* Gained practical exposure to enterprise software development.
+### 🪄 Holopin Badges  
+[![An image of @smritiprajapati's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smritiprajapati)](https://holopin.io/@smritiprajapati)
 
 ---
 
-## Education
-
-**Vellore Institute of Technology, Bhopal**
-Bachelor of Technology in Computer Science and Engineering
-2023 – 2027
-
----
-
-## Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge)
-
-### Backend & Database
-
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge)
-![JSP](https://img.shields.io/badge/JSP-111827?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge)
-
-### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-111827?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge)
-
----
-
-## Certifications
-
-* Google IT Support Professional Certificate — Google
-* The Full Stack Professional Certificate — Meta
-* AWS Technical Essentials — Amazon Web Services
-
----
-
-## Leadership & Activities
-
-### Linux Club, VIT Bhopal
-
-**Core Member — Technical Team**
-
-Contributing to workshops, technical sessions, and community initiatives.
-
-### D2C Igniters Club, VIT Bhopal
-
-**Co-Lead — Event Management Team**
-
-Managing event planning, coordination, and execution.
-
----
-
-## Competitive Programming
-
-* **LeetCode:** Solving Data Structures and Algorithms problems regularly.
-* **Codeforces:** Active participant in contests.
-* **HackerRank:** Practicing problem-solving and programming concepts.
-
----
-
-## Connect With Me
-
-* LinkedIn: **linkedin.com/in/smriti-prajapati**
-* LeetCode: **leetcode.com/u/Smriti_Prajapati**
-* Codeforces: **codeforces.com/profile/VITBLionSmriti**
-* HackerRank: **hackerrank.com/profile/smritiprajapati1**
-* Kaggle: **kaggle.com/mssmritiprajapati**
-* Email: **[smritiprajapati15@gmail.com](mailto:smritiprajapati15@gmail.com)**
-
----
-
-## GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Smriti-Prajapati&show_icons=true&theme=tokyonight" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti-Prajapati&layout=compact&theme=tokyonight" height="170">
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Smriti-Prajapati&theme=tokyonight&hide_border=true">
+### 🌐 Connect with Me: 
+<p align="left">
+  <a href="https://www.linkedin.com/in/smriti-prajapati" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Smriti_Prajapati/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/VITBLionSmriti" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/smritiprajapati1" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank"/></a>
+  <a href="https://www.kaggle.com/mssmritiprajapati" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="48" height="48" alt="Kaggle"/></a>
+  <a href="mailto:smritiprajapati15@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email"/></a>
 </p>
 
 ---
 
-## GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Smriti-Prajapati\&theme=tokyo-night\&hide_border=true\&area=true)
-
----
-
-## Achievements
-
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Smriti-Prajapati&theme=onedark&no-frame=true&row=1&column=6">
+### 🛠 Languages and Tools  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="48" height="48" alt="NetBeans"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" width="48" height="48" alt="Tomcat"/>
 </p>
 
 ---
 
-## Holopin Badges
+### 🏆 GitHub Trophies  
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Smriti-Prajapati&theme=onedark&no-frame=true&row=1&column=6" /> 
+</p>
 
-[![Holopin badges](https://holopin.me/smritiprajapati)](https://holopin.io/@smritiprajapati)
+
 
 ---
 
-<div align="center">
 
-### "Code. Learn. Build. Repeat."
 
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smriti-Prajapati&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti-Prajapati&layout=compact&theme=dark" />
+</p>
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Smriti-Prajapati&theme=dark&hide_border=true" 
+  />
+</p>
+
+
+
+
+
+---
+### 💹 Contribution Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Smriti-Prajapati&theme=react-dark&hide_border=true&area=true)
+
+
+---
+
+![GitHub Snake](https://raw.githubusercontent.com/Smriti-Prajapati/Smriti-Prajapati/main/github-contribution-grid-snake.svg)
+
+
+---
