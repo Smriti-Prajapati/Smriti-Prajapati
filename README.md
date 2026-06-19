@@ -27,28 +27,14 @@
 | Software Engineering Intern | Bharat Heavy Electricals Limited (BHEL), Bhopal | May 2025 – Jun 2025 |
 
 ---
+## 🎓 Education
 
-<h2>🎓 Education</h2>
-
-<table>
-<tr>
-<td width="90">
-<img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Vellore_Institute_of_Technology_%28logo%29.png" width="70"/>
-</td>
-
-<td>
-
-<h3>Vellore Institute of Technology, Bhopal</h3>
-
-<b>Bachelor of Technology in Computer Science and Engineering</b>
-
-<br><br>
+### **Vellore Institute of Technology, Bhopal**
+**Bachelor of Technology in Computer Science and Engineering**
 
 🗓️ 2023 – 2027 • 📍 Bhopal, Madhya Pradesh, India
 
-</td>
-</tr>
-</table>
+
 
 ---
 
