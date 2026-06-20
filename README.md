@@ -5,7 +5,7 @@
 ### • Full Stack Developer • Open Source Contributor • Building Scalable Systems • AI & ML Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=700&lines=Building+real-world+applications;Exploring+AI+and+Cloud+Technologies;Always+learning+something+new)](https://git.io/typing-svg)
-
+ 
 </div>
 
 ---
