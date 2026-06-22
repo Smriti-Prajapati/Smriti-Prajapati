@@ -24,7 +24,7 @@
 
 | Position | Organization | Duration |
 |------------|-------------|-----------|
-| Software Engineering Intern | Bharat Heavy Electricals Limited (BHEL), Bhopal | May 2025 – Jun 2025 |
+| Software Engineering Intern | Bharat Heavy Electricals Limited (BHEL), Noida | May 2025 – Jun 2025 |
 
 ---
 ## 🎓 Education
