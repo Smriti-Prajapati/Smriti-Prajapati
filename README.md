@@ -12,11 +12,11 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech in Computer Science and Engineering at **VIT Bhopal University**
-- 💻 Passionate about Software Engineering and Full Stack Development
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🌱 Exploring Cloud Computing and Open Source
-- ⚡ Building impactful applications through code
+- B.Tech in Computer Science and Engineering at **VIT Bhopal University**
+- Passionate about Software Engineering and Full Stack Development
+- Interested in Artificial Intelligence and Machine Learning
+- Exploring Cloud Computing and Open Source
+- Building impactful applications through code
 
 ---
 
