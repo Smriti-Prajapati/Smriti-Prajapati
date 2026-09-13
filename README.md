@@ -115,7 +115,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-prajapati)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Smriti_Prajapati/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VITBLionSmriti)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/algo-code)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/smritiprajapati1)
 
 ---
