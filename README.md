@@ -8,7 +8,7 @@
 
 [![Backend & Full Stack](https://img.shields.io/badge/⚡%20BACKEND%20%26%20FULL%20STACK-080808?style=for-the-badge)](#)
 [![Distributed Systems](https://img.shields.io/badge/⛓%20DISTRIBUTED%20SYSTEMS-080808?style=for-the-badge)](#)
-[![Concurrency](https://img.shields.io/badge/↻%20CONCURRENCY%20%26%20SYSTEMS-080808?style=for-the-badge)](#)
+[![Concurrency](https://img.shields.io/badge/↻%20CONCURRENCY-080808?style=for-the-badge)](#)
 
 [![AI & Machine Learning](https://img.shields.io/badge/✦%20AI%20%26%20MACHINE%20LEARNING-080808?style=for-the-badge)](#)
 [![Open Source](https://img.shields.io/badge/⌘%20OPEN%20SOURCE-080808?style=for-the-badge)](#)
