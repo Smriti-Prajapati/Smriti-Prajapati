@@ -2,17 +2,17 @@
 
 # Smriti Prajapati
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=700&lines=Building+real-world+applications;Exploring+AI+and+Cloud+Technologies;Solving+problems+through+code;Always+learning+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems;Exploring+distributed+systems;Learning+concurrency+and+systems+programming;Building+with+AI+and+ML;Contributing+to+Open+Source)](https://git.io/typing-svg)
 
 <br>
 
-[![Backend Engineer](https://img.shields.io/badge/⚡%20BACKEND%20ENGINEER-080808?style=for-the-badge&logoColor=00D9FF)](#)
-[![Full Stack](https://img.shields.io/badge/◈%20FULL%20STACK-080808?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![AI & ML](https://img.shields.io/badge/✦%20AI%20%26%20ML-080808?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](#)
-[![Cloud](https://img.shields.io/badge/☁%20CLOUD-080808?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](#)
+[![Backend & Full Stack](https://img.shields.io/badge/⚡%20BACKEND%20%26%20FULL%20STACK-080808?style=for-the-badge)](#)
+[![Distributed Systems](https://img.shields.io/badge/⛓%20DISTRIBUTED%20SYSTEMS-080808?style=for-the-badge)](#)
+[![Concurrency](https://img.shields.io/badge/↻%20CONCURRENCY%20%26%20SYSTEMS-080808?style=for-the-badge)](#)
 
-[![Open Source](https://img.shields.io/badge/⌘%20OPEN%20SOURCE-080808?style=for-the-badge&logo=github&logoColor=FFFFFF)](#)
-[![Problem Solving](https://img.shields.io/badge/◇%20PROBLEM%20SOLVING-080808?style=for-the-badge&logo=leetcode&logoColor=FFA116)](#)
+[![AI & Machine Learning](https://img.shields.io/badge/✦%20AI%20%26%20MACHINE%20LEARNING-080808?style=for-the-badge)](#)
+[![Open Source](https://img.shields.io/badge/⌘%20OPEN%20SOURCE-080808?style=for-the-badge)](#)
+[![Scalable Software](https://img.shields.io/badge/◇%20SCALABLE%20SOFTWARE-080808?style=for-the-badge)](#)
 
 </div>
 
