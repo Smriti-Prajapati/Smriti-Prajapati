@@ -1,11 +1,21 @@
 <div align="center">
 
-# Hi, I'm Smriti Prajapati 
- 
+# Smriti Prajapati
+
 ### • Backend & Full Stack Developer • Open Source Contributor • Building Scalable Systems • AI & ML Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=700&lines=Building+real-world+applications;Exploring+AI+and+Cloud+Technologies;Always+learning+something+new)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=700&lines=Building+real-world+applications;Exploring+AI+and+Cloud+Technologies;Solving+problems+through+code;Always+learning+something+new)](https://git.io/typing-svg)
+
+<br>
+
+[![Backend Engineer](https://img.shields.io/badge/⚡%20BACKEND%20ENGINEER-080808?style=for-the-badge&logoColor=00D9FF)](#)
+[![Full Stack](https://img.shields.io/badge/◈%20FULL%20STACK-080808?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![AI & ML](https://img.shields.io/badge/✦%20AI%20%26%20ML-080808?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](#)
+[![Cloud](https://img.shields.io/badge/☁%20CLOUD-080808?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](#)
+
+[![Open Source](https://img.shields.io/badge/⌘%20OPEN%20SOURCE-080808?style=for-the-badge&logo=github&logoColor=FFFFFF)](#)
+[![Problem Solving](https://img.shields.io/badge/◇%20PROBLEM%20SOLVING-080808?style=for-the-badge&logo=leetcode&logoColor=FFA116)](#)
+
 </div>
 
 ---
