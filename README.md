@@ -7,8 +7,8 @@
 <br>
 
 [![Backend Engineer](https://img.shields.io/badge/Backend%20Engineer-080808?style=for-the-badge&logo=openjdk&logoColor=00D9FF)](#)
+[![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-080808?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-080808?style=for-the-badge&logo=apachekafka&logoColor=23D96C)](#)
-[![High Performance C++](https://img.shields.io/badge/High--Performance%20C%2B%2B-080808?style=for-the-badge&logo=cplusplus&logoColor=1497D4)](#)
 [![Concurrency](https://img.shields.io/badge/Concurrency-080808?style=for-the-badge&logo=linux&logoColor=FCC624)](#)
 
 [![AI & Machine Learning](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-080808?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](#)
