@@ -6,15 +6,16 @@
 
 <br>
 
-[![Backend & Full Stack](https://img.shields.io/badge/⚡%20BACKEND%20%26%20FULL%20STACK-080808?style=for-the-badge)](#)
-[![Distributed Systems](https://img.shields.io/badge/⛓%20DISTRIBUTED%20SYSTEMS-080808?style=for-the-badge)](#)
-[![Concurrency](https://img.shields.io/badge/↻%20CONCURRENCY-080808?style=for-the-badge)](#)
+[![Backend Engineer](https://img.shields.io/badge/Backend%20Engineer-080808?style=for-the-badge&logo=openjdk&logoColor=00D9FF)](#)
+[![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-080808?style=for-the-badge&logo=apachekafka&logoColor=23D96C)](#)
+[![High Performance C++](https://img.shields.io/badge/High--Performance%20C%2B%2B-080808?style=for-the-badge&logo=cplusplus&logoColor=1497D4)](#)
+[![Concurrency](https://img.shields.io/badge/Concurrency-080808?style=for-the-badge&logo=linux&logoColor=FCC624)](#)
 
-[![AI & Machine Learning](https://img.shields.io/badge/✦%20AI%20%26%20MACHINE%20LEARNING-080808?style=for-the-badge)](#)
-[![Open Source](https://img.shields.io/badge/⌘%20OPEN%20SOURCE-080808?style=for-the-badge)](#)
-[![Scalable Software](https://img.shields.io/badge/◇%20SCALABLE%20SOFTWARE-080808?style=for-the-badge)](#)
+[![AI & Machine Learning](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-080808?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](#)
+[![Open Source](https://img.shields.io/badge/Open%20Source-080808?style=for-the-badge&logo=github&logoColor=FFFFFF)](#)
 
 </div>
+
 
 ---
 
